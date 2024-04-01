@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<!-- insert your AIML categories here -->
+<button>
+    <text>HydroFLOW USA</text>
+    <url>http://www.hydroflow-usa.com/</url>
+</button>
+<category>
+	<pattern>NAME OF YOUR CEO</pattern>
+	<template>Tal Journo is our CEO</template>
+</category>
+
+<category><pattern>YOUR CEO IS</pattern><template><srai>NAME OF YOUR CEO</srai></template></category>
+
+
+<category><pattern>WHO IS YOUR CEO</pattern><template><srai>NAME OF YOUR CEO</srai></template></category>
+<category><pattern>WHO IS THE BIG BOSS</pattern><template><srai>NAME OF YOUR CEO</srai></template></category>
+<category><pattern>WHO IS THE KING</pattern><template><srai>NAME OF YOUR CEO</srai></template></category>
+<category><pattern>WHO IS IN CHARGE</pattern><template><srai>NAME OF YOUR CEO</srai></template></category>
+<category><pattern>WHO IS THE DICTATOR</pattern><template><srai>NAME OF YOUR CEO</srai></template></category>
+<category><pattern>WHO MAKES DECISIONS</pattern><template><srai>NAME OF YOUR CEO</srai></template></category>
+<category><pattern>WHO IS THE MAJORITY OWNER</pattern><template><srai>NAME OF YOUR CEO</srai></template></category>
+
+
+
+
+<category>
+	<pattern>WHAT IS HYDROFLOW</pattern>
+	<template>Hydroflow is an electric water conditioner. To learn more about it 
+<link>
+    <text>Learn about HydroFLOW</text>
+    <url>https://www.hydroflow-usa.com/Technology</url>
+</link></template>
+</category>
+
+<category><pattern>HYDROFLOW IS WHAT</pattern><template><srai>WHAT IS HYDROFLOW</srai></template></category>
+<category><pattern>HELP ME UNDERSTAND HYDROFLOW</pattern><template><srai>WHAT IS HYDROFLOW</srai></template></category>
+<category><pattern>WHAT EXACTLY IS HYDROFLOW</pattern><template><srai>WHAT IS HYDROFLOW</srai></template></category>
+
+
+<category><pattern>TELL ME ABOUT HYDROFLOW</pattern><template><srai>WHAT IS HYDROFLOW</srai></template></category>
+<category><pattern>WHAT DOES HYDROFLOW DO</pattern><template><srai>WHAT IS HYDROFLOW</srai></template></category>
+
+
+
+
+<category>
+	<pattern>WHERE DO YOU INSTALL A HYDROFLOW DEVICE</pattern>
+	<template>You install a Hydroflow device on the incoming water line after any filters but before the hot water tank.</template>
+</category>
+
+<category><pattern>WHERE TO INSTALL *</pattern><template><srai>WHERE DO YOU INSTALL A HYDROFLOW DEVICE</srai></template></category>
+
+
+<category><pattern>INSTALLATION INSTRUCTIONS</pattern><template><srai>WHERE DO YOU INSTALL A HYDROFLOW DEVICE</srai></template></category>
+<category><pattern>WHERE SHOULD I PUT THE hYDROFLOW DEVICE</pattern><template><srai>WHERE DO YOU INSTALL A HYDROFLOW DEVICE</srai></template></category>
+
+
+<category><pattern>WHERE TO INSTALL ^</pattern><template><srai>WHERE DO YOU INSTALL A HYDROFLOW DEVICE</srai></template></category>
+<category><pattern>BEST PLACE TO INSTALL</pattern><template><srai>WHERE DO YOU INSTALL A HYDROFLOW DEVICE</srai></template></category>
+<category><pattern>INSTALLATION IS EASY</pattern><template><srai>WHERE DO YOU INSTALL A HYDROFLOW DEVICE</srai></template></category>
+<category><pattern>WHERE SHOULD I INSTALL ^</pattern><template><srai>WHERE DO YOU INSTALL A HYDROFLOW DEVICE</srai></template></category>
+<category><pattern>INSTALLATION</pattern><template><srai>WHERE DO YOU INSTALL A HYDROFLOW DEVICE</srai></template></category>
+<category><pattern>INSTALL HYDROFLOW WHERE</pattern><template><srai>WHERE DO YOU INSTALL A HYDROFLOW DEVICE</srai></template></category>
+<category><pattern>INSTRUCTIONS ON INSTALLATION</pattern><template><srai>WHERE DO YOU INSTALL A HYDROFLOW DEVICE</srai></template></category>
+<category><pattern>BEST PLACE TO PUT IT</pattern><template><srai>WHERE DO YOU INSTALL A HYDROFLOW DEVICE</srai></template></category>
+<category><pattern>BEST INSTALLATION HYDROFLOW</pattern><template><srai>WHERE DO YOU INSTALL A HYDROFLOW DEVICE</srai></template></category>
+
+
+<category>
+	<pattern>WHAT IS YOUR MAILING ADDRESS</pattern>
+	<template>15301 NE 90th St, Redmond, WA 98052</template>
+</category>
+
+<category><pattern>WHAT IS YOUR ADDRESS</pattern><template><srai>WHAT IS YOUR MAILING ADDRESS</srai></template></category>
+<category><pattern>DO YOU HAVE A MAILING </pattern><template><srai>WHAT IS YOUR MAILING ADDRESS</srai></template></category>
+<category><pattern>WHERE TO SEND MAIL</pattern><template><srai>WHAT IS YOUR MAILING ADDRESS</srai></template></category>
+<category><pattern>WHERE ARE YOU LOCATED</pattern><template><srai>WHAT IS YOUR MAILING ADDRESS</srai></template></category>
+<category><pattern>YOUR LOCATION</pattern><template><srai>WHAT IS YOUR MAILING ADDRESS</srai></template></category>
+<category><pattern>WHERE IS YOUR CORPORATE OFFICE</pattern><template><srai>WHAT IS YOUR MAILING ADDRESS</srai></template></category>
+<category><pattern>WHERE IS YOUR OFFICE</pattern><template><srai>WHAT IS YOUR MAILING ADDRESS</srai></template></category>
+<category><pattern>OFFICE LOCATION</pattern><template><srai>WHAT IS YOUR MAILING ADDRESS</srai></template></category>
+<category><pattern>YOUR LOCATED WHERE</pattern><template><srai>WHAT IS YOUR MAILING ADDRESS</srai></template></category>
+<category><pattern>SEND MAIL WHERE</pattern><template><srai>WHAT IS YOUR MAILING ADDRESS</srai></template></category>
+
+<category><pattern>MAIL*</pattern><template><srai>SEND MAIL WHERE</srai></template></category>
+
+
+
+
+
+<category>
+	<pattern>WHAT IS YOUR EMAIL</pattern>
+	<template>sales@hydroflow-usa.com</template>
+</category>
+
+<category><pattern>EMAIL </pattern><template><srai>WHAT IS YOUR EMAIL</srai></template></category>
+
+<category><pattern>EMAIL ^</pattern><template><srai>EMAIL </srai></template></category>
+
+<category><pattern>DO YOU HAVE EMAIL</pattern><template><srai>WHAT IS YOUR EMAIL</srai></template></category>
+<category><pattern>WHERE TO SEND EMAIL</pattern><template><srai>WHAT IS YOUR EMAIL</srai></template></category>
+<category><pattern>EMAIL ADDRESS</pattern><template><srai>WHAT IS YOUR EMAIL</srai></template></category>
+<category><pattern>BEST PLACE TO SEND EMAIL</pattern><template><srai>WHAT IS YOUR EMAIL</srai></template></category>
+<category><pattern>CUSTOMER SERVICE EMAIL</pattern><template><srai>WHAT IS YOUR EMAIL</srai></template></category>
+<category><pattern>HELP EMAIL</pattern><template><srai>WHAT IS YOUR EMAIL</srai></template></category>
+
+
+<category>
+	<pattern>VICE PRESIDENT ^</pattern>
+	<template>Chuck Glessner</template>
+</category>
+
+<category><pattern>WHO IS YOUR VP</pattern><template><srai>VICE PRESIDENT ^</srai></template></category>
+
+
+<category><pattern>VP ^</pattern><template><srai>VICE PRESIDENT ^</srai></template></category>
+
+
+<category><pattern>WHO IS THE SCIENTIST</pattern><template><srai>WHO IS YOUR VICE PRESIDENT</srai></template></category>
+<category><pattern>WHO IS SECOND IN COMMAND</pattern><template><srai>WHO IS YOUR VICE PRESIDENT</srai></template></category>
+<category><pattern>WHO KNOWS TECHNICAL INFORMATION</pattern><template><srai>WHO IS YOUR VICE PRESIDENT</srai></template></category>
+<category><pattern>VP ^</pattern><template><srai>WHO IS YOUR VICE PRESIDENT</srai></template></category>
+
+
+<category>
+	<pattern>HOW DO I KNOW IF MY HYDROFLOW IS WORKING</pattern>
+	<template>To know for sure if its working check your Hot Water Tank. You will notice that loose scale deposits will be settling at the bottom of your tank. An easier way to verify it's working is you will notice white powder begining to build up on shower heads and sink drains. You may also notice scale stains dissapearing off splash areas. The white powdery substance will easily wipe away.</template>
+</category>
+
+<category><pattern>HOW WOULD I KNOW MY DEVICE IS WORKING</pattern><template><srai>HOW DO I KNOW IF MY HYDROFLOW IS WORKING</srai></template></category>
+<category><pattern>HOW TO CONFIRM MY DEVICE IS WORKING</pattern><template><srai>HOW DO I KNOW IF MY HYDROFLOW IS WORKING</srai></template></category>
+<category><pattern>HOW TO KNOW ^ WORKING</pattern><template><srai>HOW DO I KNOW IF MY HYDROFLOW IS WORKING</srai></template></category>
+
+
+<category><pattern>HOW DO I KNOW ITS WORKING</pattern><template><srai>HOW DO I KNOW IF MY HYDROFLOW IS WORKING</srai></template></category>
+<category><pattern>IS THERE A WAY TO KNOW IF ITS WORKING</pattern><template><srai>HOW DO I KNOW IF MY HYDROFLOW IS WORKING</srai></template></category>
+
+
+<category><pattern>HYDROFLOW WORKING</pattern><template><srai>HOW DO I KNOW IF MY HYDROFLOW IS WORKING</srai></template></category>
+<category><pattern>VERIFY ITS WORKING</pattern><template><srai>HOW DO I KNOW IF MY HYDROFLOW IS WORKING</srai></template></category>
+<category><pattern>HOW TO TELL ITS WORKING</pattern><template><srai>HOW DO I KNOW IF MY HYDROFLOW IS WORKING</srai></template></category>
+<category><pattern>HOW TO KNOW IF HYDROFLOW IS WORKING</pattern><template><srai>HOW DO I KNOW IF MY HYDROFLOW IS WORKING</srai></template></category>
+<category><pattern>IS THERE A WAY TO TELL ITS WORKING</pattern><template><srai>HOW DO I KNOW IF MY HYDROFLOW IS WORKING</srai></template></category>
+<category><pattern>BEST WAY TO CHECK AND SEE IF ITS WORKIING</pattern><template><srai>HOW DO I KNOW IF MY HYDROFLOW IS WORKING</srai></template></category>
+<category><pattern>HYDROFLOW IS WORKING</pattern><template><srai>HOW DO I KNOW IF MY HYDROFLOW IS WORKING</srai></template></category>
+<category><pattern>HOW TO KNOW HYDROFLOW IS WORKING</pattern><template><srai>HOW DO I KNOW IF MY HYDROFLOW IS WORKING</srai></template></category>
+<category><pattern>VERIFY HYDROFLOW WORKING</pattern><template><srai>HOW DO I KNOW IF MY HYDROFLOW IS WORKING</srai></template></category>
+
+
+<category>
+	<pattern>WHAT HOURS ARE YOU OPEN</pattern>
+	<template>Monday thru Friday 8:30 am to 5 pm PST</template>
+</category>
+
+<category><pattern>WHEN DO YOU OPEN</pattern><template><srai>WHAT HOURS ARE YOU OPEN</srai></template></category>
+<category><pattern>WHEN DO YOU CLOSE</pattern><template><srai>WHAT HOURS ARE YOU OPEN</srai></template></category>
+
+
+<category><pattern>WHAT TIME ^</pattern><template><srai>WHAT HOURS ARE YOU OPEN</srai></template></category>
+<category><pattern>WHAT DAYS ^</pattern><template><srai>WHAT HOURS ARE YOU OPEN</srai></template></category>
+
+
+<category><pattern>HOURS OF OPERATION</pattern><template><srai>WHAT HOURS ARE YOU OPEN</srai></template></category>
+<category><pattern>ARE YOU OPEN ON THE WEEKEND</pattern><template><srai>WHAT HOURS ARE YOU OPEN</srai></template></category>
+<category><pattern>WHEN ARE YOU OPEN</pattern><template><srai>WHAT HOURS ARE YOU OPEN</srai></template></category>
+<category><pattern>WHEN DO YOU CLOSE</pattern><template><srai>WHAT HOURS ARE YOU OPEN</srai></template></category>
+<category><pattern>CLOSING TIME</pattern><template><srai>WHAT HOURS ARE YOU OPEN</srai></template></category>
+<category><pattern>WHEN CAN I CONTACT YOU</pattern><template><srai>WHAT HOURS ARE YOU OPEN</srai></template></category>
+<category><pattern>^ OFFICE HOURS ^</pattern><template><srai>WHAT HOURS ARE YOU OPEN</srai></template></category>
+<category><pattern>WHEN CAN I CALL YOU</pattern><template><srai>WHAT HOURS ARE YOU OPEN</srai></template></category>
+<category><pattern>WHAT IS THE BEST DAY AND TIME TO CONTACT</pattern><template><srai>WHAT HOURS ARE YOU OPEN</srai></template></category>
+<category><pattern>CUSTOMER SERVICE HOURS</pattern><template><srai>WHAT HOURS ARE YOU OPEN</srai></template></category>
+
+
+
+
+
+
+<category>
+	<pattern>WHAT SIZE PIPE DOES HYDROFLOW FIT ON</pattern>
+	<template>Pearl fits on a 1 inch pipe. 
+Pearl Plus fits on a 1.25 inch pipe. 
+Pearl and a Pearl Plus fits on a 2 inch pipe. 
+For larger pipe sizes please email Sales@hydroflow-usa.com</template>
+</category>
+
+<category><pattern>WHAT SIZE PIPE DOES ^ FIT ON</pattern><template><srai>WHAT SIZE PIPE DOES HYDROFLOW FIT ON</srai></template></category>
+
+
+<category><pattern>^ PIPE SIZE ^</pattern><template><srai>WHAT SIZE PIPE DOES HYDROFLOW FIT ON</srai></template></category>
+
+
+
+<category>
+	<pattern>HOW MUCH DOES AN HYDROFLOW Pearl Plus COST</pattern>
+	<template>The Pearl Plus retails for $595.00
+<link>
+    <text>Pearl Plus price</text>
+    <url>https://www.hydroflow-usa.com/shop/hydroflow-pearl-plus/</url>
+</link></template>
+</category>
+
+<category><pattern>^ Pearl Plus cost</pattern><template><srai>HOW MUCH DOES AN HYDROFLOW Pearl Plus COST</srai></template></category>
+
+
+<category><pattern>HOW MUCH IS AN Pearl Plus</pattern><template><srai>HOW MUCH DOES AN HYDROFLOW Pearl Plus COST</srai></template></category>
+
+
+<category><pattern>Pearl Plus RETAIL PRICE</pattern><template><srai>HOW MUCH DOES AN HYDROFLOW Pearl Plus COST</srai></template></category>
+<category><pattern>Pearl Plus COST ^</pattern><template><srai>HOW MUCH DOES AN HYDROFLOW Pearl Plus COST</srai></template></category>
+<category><pattern>HOW EXPENSIVE IS AN Pearl Plus</pattern><template><srai>HOW MUCH DOES AN HYDROFLOW Pearl Plus COST</srai></template></category>
+<category><pattern>HYDROFLOW Pearl Plus PRICE</pattern><template><srai>HOW MUCH DOES AN HYDROFLOW Pearl Plus COST</srai></template></category>
+<category><pattern>WHAT DOES A Pearl Plus COST</pattern><template><srai>HOW MUCH DOES AN HYDROFLOW Pearl Plus COST</srai></template></category>
+<category><pattern>WHAT IS THE PRICE OF AN Pearl Plus</pattern><template><srai>HOW MUCH DOES AN HYDROFLOW Pearl Plus COST</srai></template></category>
+
+
+<category>
+	<pattern>HOW MUCH * Pearl ^</pattern>
+	<template>The Pearl retails for $295.00
+<link>
+    <text>Pearl Price</text>
+    <url>https://shop.hydroflow-usa.com</url>
+</link></template>
+</category>
+
+<category><pattern>HOW MUCH does ^ Pearl ^</pattern><template><srai>HOW MUCH * Pearl ^</srai></template></category>
+
+
+<category><pattern>PRICE OF AN Pearl</pattern><template><srai>HOW MUCH * Pearl ^</srai></template></category>
+
+
+<category><pattern>Pearl RETAIL PRICE</pattern><template><srai>HOW MUCH * Pearl ^</srai></template></category>
+<category><pattern>Pearl COST</pattern><template><srai>HOW MUCH * Pearl ^</srai></template></category>
+<category><pattern>HOW EXPENSIVE IS A Pearl</pattern><template><srai>HOW MUCH * Pearl ^</srai></template></category>
+<category><pattern>HYDROFLOW Pearl PRICE</pattern><template><srai>HOW MUCH * Pearl ^</srai></template></category>
+<category><pattern>WHAT DOES A Peal COST</pattern><template><srai>HOW MUCH * Pearl ^</srai></template></category>
+<category><pattern>WHAT IS THE PRICE OF AN Pearl</pattern><template><srai>HOW MUCH * Pearl ^</srai></template></category>
+
+
+<category>
+	<pattern>WHAT KIND OF PIPE CAN I INSTALL ON</pattern>
+	<template>The HydroFLOW device works on all kinds of pipe material, copper, galvenized, PEX and PVC.The Hydropath signal is induced into the water flowing through the pipes. The conductivity of the water allows the Hydropath signal to propagate throughout your plumbing system. </template>
+</category>
+
+<category><pattern>WHAT KIND OF PIPE CAN I INSTALL HYDROFLOW ON</pattern><template><srai>WHAT KIND OF PIPE CAN I INSTALL ON</srai></template></category>
+<category><pattern>KIND OF PIPE * INSTALL *</pattern><template><srai>WHAT KIND OF PIPE CAN I INSTALL ON</srai></template></category>
+<category><pattern>WHAT PIPE MATERIAL CAN I INSTALL ON</pattern><template><srai>WHAT KIND OF PIPE CAN I INSTALL ON</srai></template></category>
+<category><pattern>DOES HYDROFLOW WORK *  PIPE</pattern><template><srai>WHAT KIND OF PIPE CAN I INSTALL ON</srai></template></category>
+
+
+<category><pattern>CAN I INSTALL * ON A * PIPE</pattern><template><srai>WHAT KIND OF PIPE CAN I INSTALL ON</srai></template></category>
+<category><pattern>INSTALL ON ANY PIPE</pattern><template><srai>WHAT KIND OF PIPE CAN I INSTALL ON</srai></template></category>
+<category><pattern>* KIND OF PIPE ^</pattern><template><srai>WHAT KIND OF PIPE CAN I INSTALL ON</srai></template></category>
+<category><pattern>INSTALL PIPE</pattern><template><srai>WHAT KIND OF PIPE CAN I INSTALL ON</srai></template></category>
+<category><pattern>^ COPPER PIPE ^</pattern><template><srai>WHAT KIND OF PIPE CAN I INSTALL ON</srai></template></category>
+<category><pattern>WORKS ON ^ PIPE</pattern><template><srai>WHAT KIND OF PIPE CAN I INSTALL ON</srai></template></category>
+<category><pattern>^ PVC PIPE ^</pattern><template><srai>WHAT KIND OF PIPE CAN I INSTALL ON</srai></template></category>
+<category><pattern>^ GALVANIZED PIPE ^</pattern><template><srai>WHAT KIND OF PIPE CAN I INSTALL ON</srai></template></category>
+<category><pattern>^ PEX PIPE ^</pattern><template><srai>WHAT KIND OF PIPE CAN I INSTALL ON</srai></template></category>
+<category><pattern>WHAT KIND OF PIPE DOES HYDROFLOW WORK ON</pattern><template><srai>WHAT KIND OF PIPE CAN I INSTALL ON</srai></template></category>
+<category><pattern>* HYDROFLOW WORKS ON * PIPE</pattern><template><srai>WHAT KIND OF PIPE CAN I INSTALL ON</srai></template></category>
+
+<category>
+	<pattern>DOES YOUR PRODUCT DEAL WITH LEAD IN THE WATER</pattern>
+	<template>No we don't remove anything out of the water</template>
+</category>
+
+
+
+
+<category><pattern>FIX LEAD IN THE WATER</pattern><template><srai>DOES YOUR PRODUCT DEAL WITH LEAD IN THE WATER</srai></template></category>
+<category><pattern>LEAD IN WATER</pattern><template><srai>DOES YOUR PRODUCT DEAL WITH LEAD IN THE WATER</srai></template></category>
+<category><pattern>^ LEAD PROBLEM ^</pattern><template><srai>DOES YOUR PRODUCT DEAL WITH LEAD IN THE WATER</srai></template></category>
+<category><pattern>DO ANYTHING FOR LEAD</pattern><template><srai>DOES YOUR PRODUCT DEAL WITH LEAD IN THE WATER</srai></template></category>
+<category><pattern>LEAD ISSUE</pattern><template><srai>DOES YOUR PRODUCT DEAL WITH LEAD IN THE WATER</srai></template></category>
+<category><pattern>DEAL WITH LEAD</pattern><template><srai>DOES YOUR PRODUCT DEAL WITH LEAD IN THE WATER</srai></template></category>
+
+<category>
+	<pattern>ARE YOU A WATER SOFTENER</pattern>
+	<template>No we are a chemical free alternative to a water softenener.
+To learn more about this technology 
+<link>
+    <text>Click Here</text>
+    <url>https://www.hydroflow-usa.com/Technology</url>
+</link></template>
+</category>
+
+<category><pattern>DO YOU MAKE WATER SOFT</pattern><template><srai>ARE YOU A WATER SOFTENER</srai></template></category>
+<category><pattern>WATER SOFTENER</pattern><template><srai>ARE YOU A WATER SOFTENER</srai></template></category>
+<category><pattern>MAKE WATER SOFT</pattern><template><srai>ARE YOU A WATER SOFTENER</srai></template></category>
+<category><pattern>MAKE HARD WATER SOFT</pattern><template><srai>ARE YOU A WATER SOFTENER</srai></template></category>
+<category><pattern>IS HYDROFLOW A WATER SOFTENER</pattern><template><srai>ARE YOU A WATER SOFTENER</srai></template></category>
+<category><pattern>HYDROFLOW WATER SOFTENER</pattern><template><srai>ARE YOU A WATER SOFTENER</srai></template></category>
+<category><pattern>HYDROFLOW MAKE SOFTER WATER</pattern><template><srai>ARE YOU A WATER SOFTENER</srai></template></category>
+
+<category>
+	<pattern>WHAT COMPANY DO YOU WORK FOR</pattern>
+	<template>HydroFLOW USA</template>
+</category>
+
+<category><pattern>COMPANIES NAME</pattern><template><srai>WHAT COMPANY DO YOU WORK FOR</srai></template></category>
+
+
+<category><pattern>COMPANY NAME</pattern><template><srai>WHAT COMPANY DO YOU WORK FOR</srai></template></category>
+
+<category>
+	<pattern>PHONE NUMBER</pattern>
+	<template>my phone number is (425) 497-3900</template>
+</category>
+
+<category><pattern>PHONE ^</pattern><template><srai>PHONE NUMBER</srai></template></category>
+<category><pattern>TELEPHONE ^</pattern><template><srai>PHONE NUMBER</srai></template></category>
+<category><pattern>^ PHONE </pattern><template><srai>PHONE NUMBER</srai></template></category>
+<category><pattern>TELEPHONE ^</pattern><template><srai>PHONE NUMBER</srai></template></category>
+
+
+<category><pattern>WHATS YOUR PHONE NUMUBER</pattern><template><srai>PHONE NUMBER</srai></template></category>
+<category><pattern>DO YOU HAVE A TELEPHONE</pattern><template><srai>PHONE NUMBER</srai></template></category>
+<category><pattern>CAN I CALL YOU</pattern><template><srai>PHONE NUMBER</srai></template></category>
+<category><pattern>TELEPHONE NUMBER</pattern><template><srai>PHONE NUMBER</srai></template></category>
+<category><pattern>DO YOU ACCEPT PHONE CALLS</pattern><template><srai>PHONE NUMBER</srai></template></category>
+<category><pattern>CAN i TALK TO A REAL PERSON</pattern><template><srai>PHONE NUMBER</srai></template></category>
+
+<category>
+	<pattern>HOW MUCH IS AN Pearl and a Pearl Plus</pattern>
+	<template>The Pearl and a Pearl Plus retails for >,695.00
+<link>
+    <text>Pearl and a Pearl Plus price</text>
+    <url>https://www.hydroflow-usa.com/shop/hydroflow-pearl-plus</url>
+</link></template>
+</category>
+
+<category><pattern>Pearl Plus</pattern><template><srai>HOW MUCH IS AN Pearl and a Pearl Plus</srai></template></category>
+<category><pattern>Pearl Plus</pattern><template><srai>HOW MUCH IS AN Pearl and a Pearl Plus</srai></template></category>
+<category><pattern>Pearl and a Pearl Plus</pattern><template><srai>HOW MUCH IS AN Pearl and a Pearl Plus</srai></template></category>
+
+
+<category><pattern>Pearl and a Pearl Plus PRICE</pattern><template><srai>HOW MUCH IS AN Pearl and a Pearl Plus</srai></template></category>
+<category><pattern>Pearl and a Pearl Plus COST</pattern><template><srai>HOW MUCH IS AN Pearl and a Pearl Plus</srai></template></category>
+<category><pattern>HOW MUCH Pearl and a Pearl Plus</pattern><template><srai>HOW MUCH IS AN Pearl and a Pearl Plus</srai></template></category>
+<category><pattern>Pearl and a Pearl Plus RETAILS FOR</pattern><template><srai>HOW MUCH IS AN Pearl and a Pearl Plus</srai></template></category>
+<category><pattern>HOW EXPENSIVE IS Pearl and a Pearl Plus</pattern><template><srai>HOW MUCH IS AN Pearl and a Pearl Plus</srai></template></category>
+
+<category>
+	<pattern>WOULD THIS WORK TO HELP HARD WATER IN A POOL</pattern>
+	<template>In a residential or small commercial pool, an hs40 will reduce hard scale accumulation is areas with constant water flow. If it’s a heated pool, your water heater will also experience reduced hard scale accumulation. Splash zones will have scale due to water evaporation, but the scale will be easier to remove. Apart for scale treatment, there will be additional benefits such as reduced chemical use, reduced backwash and clearer water. These videos might be of interest:
+<link>
+    <text>VIDEO</text>
+    <url> https://vimeo.com/53559486</url>
+</link> and
+<link>
+    <text>VIDEO 2</text>
+    <url> https://vimeo.com/107645625</url>
+</link>. Please note the HydroFLOW hs40 is designed for pools with a 2” recirculating pipe. The Pearl Plus will not fit. Larger pipe diameters will require our industrial grade units:
+<link>
+    <text>I RANGE</text>
+    <url> https://www.hydroflow-usa.com/l-Range</url>
+</link>. </template>
+</category>
+
+<category><pattern>POOL ^</pattern><template><srai>WOULD THIS WORK TO HELP HARD WATER IN A POOL</srai></template></category>
+<category><pattern>SWIMMING POOL</pattern><template><srai>WOULD THIS WORK TO HELP HARD WATER IN A POOL</srai></template></category>
+<category><pattern>POOLS</pattern><template><srai>WOULD THIS WORK TO HELP HARD WATER IN A POOL</srai></template></category>
+<category><pattern>SWIMMING ^</pattern><template><srai>WOULD THIS WORK TO HELP HARD WATER IN A POOL</srai></template></category>
+
+
+<category>
+	<pattern>DO YOU FIX LEAD IN THE WATER</pattern>
+	<template>no we do not change the contents of your water</template>
+</category>
+
+<category>
+	<pattern>WHAT HAPPENS TO THE REMOVED SCALE</pattern>
+	<template>Existing scale buildup in a water heater will begin to break loose over time. Some of it will flush out of the heater, but other particles might need to be purged out. Please follow the water heater manufacturer’s instructions on how to periodically purge the water heater or hire a plumber to do it for you. Existing scale buildup in pipes, on shower heads and on faucet heads will begin to break loose over time and flush down the drain. Once removed, hard scale is not expected to adhere. We don’t supply residential filtration systems.</template>
+</category>
+
+<category><pattern>WHERE DOES THE SCALE GO</pattern><template><srai>WHAT HAPPENS TO THE REMOVED SCALE</srai></template></category>
+
+
+<category><pattern>SCALE GOES WHERE</pattern><template><srai>WHAT HAPPENS TO THE REMOVED SCALE</srai></template></category>
+<category><pattern>WHAT HAPPENS TO SCALE</pattern><template><srai>WHAT HAPPENS TO THE REMOVED SCALE</srai></template></category>
+<category><pattern>WHERE DOES SCALE GO</pattern><template><srai>WHAT HAPPENS TO THE REMOVED SCALE</srai></template></category>
+<category><pattern>IS SCALE REMOVED</pattern><template><srai>WHAT HAPPENS TO THE REMOVED SCALE</srai></template></category>
+<category><pattern>EXISTING SCALE GOES</pattern><template><srai>WHAT HAPPENS TO THE REMOVED SCALE</srai></template></category>
+
+
+<category>
+	<pattern>DO YOU SELL WATER FILTERS</pattern>
+	<template>No,we sell HydroFLOW water Conditioners
+<link>
+    <text>What we sell</text>
+    <url>https://www.hydroflow-usa.com/Shop>
+</link></template>
+</category>
+
+<category><pattern>DO YOU SELL PUMPS</pattern><template><srai>DO YOU SELL WATER FILTERS</srai></template></category>
+<category><pattern>DO YOU SELL FILTER</pattern><template><srai>DO YOU SELL WATER FILTERS</srai></template></category>
+<category><pattern>DO YOU SELL FITTINGS</pattern><template><srai>DO YOU SELL WATER FILTERS</srai></template></category>
+
+
+<category><pattern>DO YOU SELL PIPE</pattern><template><srai>DO YOU SELL WATER FILTERS</srai></template></category>
+<category><pattern>DO YOU SELL PLUMBING</pattern><template><srai>DO YOU SELL WATER FILTERS</srai></template></category>
+<category><pattern>DO YOU SELL FILTERS</pattern><template><srai>DO YOU SELL WATER FILTERS</srai></template></category>
+<category><pattern>DO YOU SELL WHOLE HOUSE FILTRATION</pattern><template><srai>DO YOU SELL WATER FILTERS</srai></template></category>
+<category><pattern>DO YOU SELL PIPING</pattern><template><srai>DO YOU SELL WATER FILTERS</srai></template></category>
+<category><pattern>DO YOU SELL *</pattern><template><srai>DO YOU SELL WATER FILTERS</srai></template></category>
+
+
+<category>
+	<pattern>DO YOU BELIEVE IN GOD</pattern>
+	<template>Jason is my God</template>
+</category>
+
+<category>
+	<pattern>COMPARE HYDROFLOW TO SCALEBUSTER</pattern>
+	<template>The HydroFLOW device is powered by the patented Hydropath technology. Hydropath technology accomplishes what the wire wrap system is attempting to achieve, about 26,000 times more effectively. Tests measuring a double wire wrap / coil system have approximately 0.000039 power, compared to a ratio of 1 with HydroFLOW. 1 divided by .000039 = 25,641</template>
+</category>
+
+<category><pattern>COMPARE HYDROFLOW ^</pattern><template><srai>COMPARE HYDROFLOW TO SCALEBUSTER</srai></template></category>
+
+
+<category><pattern>COMPARE TO MAGNETIC</pattern><template><srai>COMPARE HYDROFLOW TO SCALEBUSTER</srai></template></category>
+<category><pattern>DIFFERENCE BETWEEN WIRE WRAP</pattern><template><srai>COMPARE HYDROFLOW TO SCALEBUSTER</srai></template></category>
+<category><pattern>HYDROFLOW WIRE WRAP</pattern><template><srai>COMPARE HYDROFLOW TO SCALEBUSTER</srai></template></category>
+<category><pattern>HYDROFLOW MAGNETIC</pattern><template><srai>COMPARE HYDROFLOW TO SCALEBUSTER</srai></template></category>
+<category><pattern>HYDROFLOW VS EDDY</pattern><template><srai>COMPARE HYDROFLOW TO SCALEBUSTER</srai></template></category>
+<category><pattern>HYDROFLOW VS ISPRING</pattern><template><srai>COMPARE HYDROFLOW TO SCALEBUSTER</srai></template></category>
+<category><pattern>HYDROFLOW COMPARED TO</pattern><template><srai>COMPARE HYDROFLOW TO SCALEBUSTER</srai></template></category>
+
+
+<category>
+	<pattern>DO I NEED ANY TOOLS TO INSTALL</pattern>
+	<template>Plumbing modifications are not required. All you need is an 120 VAC electrical outlet to plug in the power supply and the surge protector that comes with the unit. Please note link to an installation video.   https://vimeo.com/232517174  The system is conducive to any type of piping system, as the Hydropath signal is induced into the water flowing through the plumbing system and the  water acts as the signal carrying conductor.  Regarding the issue with the scale ring in your toilet, it may not eliminate the existing scale buildup but it will make it easier to clean and there will no additional buildup  of scale (no new scale will be accumulating). Removing existing scale typically is a slow process and can take weeks to months depending on the current buildup of the scale.</template>
+</category>
+
+<category>
+	<pattern>DOES THIS FILTER IRON FROM MY WELL WATER</pattern>
+	<template> HydroFLOW devices do not remove or filter anything out of your water. We can prevent new scale from forming and remove exiting scale from your plumbing system. This would replace your water softener system. To remove impurities like iron from your water you will need to install a filtration system. </template>
+</category>
+
+<category><pattern>^ REMOVE ^ FROM WATER</pattern><template><srai>DOES THIS FILTER IRON FROM MY WELL WATER</srai></template></category>
+
+
+<category><pattern>HYDROFLOW FILTER</pattern><template><srai>DOES THIS FILTER IRON FROM MY WELL WATER</srai></template></category>
+<category><pattern>IMPURITIES IN WATER</pattern><template><srai>DOES THIS FILTER IRON FROM MY WELL WATER</srai></template></category>
+<category><pattern>REMOVE BAD STUFF</pattern><template><srai>DOES THIS FILTER IRON FROM MY WELL WATER</srai></template></category>
+<category><pattern>^ FIX IMPURITIES</pattern><template><srai>DOES THIS FILTER IRON FROM MY WELL WATER</srai></template></category>
+<category><pattern>MAKE WATER SAFE</pattern><template><srai>DOES THIS FILTER IRON FROM MY WELL WATER</srai></template></category>
+<category><pattern>FIX ARSENIC</pattern><template><srai>DOES THIS FILTER IRON FROM MY WELL WATER</srai></template></category>
+<category><pattern>FIX CONTAMINATED</pattern><template><srai>DOES THIS FILTER IRON FROM MY WELL WATER</srai></template></category>
+<category><pattern>^ REMOVE CONTAMINATES ^</pattern><template><srai>DOES THIS FILTER IRON FROM MY WELL WATER</srai></template></category>
+
+
+
+<category><pattern>^ REMOVE * FROM WATER</pattern><template><srai>DOES THIS FILTER IRON FROM MY WELL WATER</srai></template></category>
+<category><pattern>FILTER * FROM WATER</pattern><template><srai>DOES THIS FILTER IRON FROM MY WELL WATER</srai></template></category>
+
+
+<category>
+	<pattern>WILL THE Pearl Plus REDUCE HARD WATER OR JUST SCALE</pattern>
+	<template>HydroFLOW devices do not reduce hard water, or soften water. The HydroFLOW unit applies an electric field to help the ions form crystals in the water rather than on the walls of your pipes or equipment. This allows the good minerals, calcium and magnesium, to remain in your water and not form scale in your plumbing system.</template>
+</category>
+
+<category><pattern>^ FIX HARD WATER</pattern><template><srai>WILL THE Pearl Plus REDUCE HARD WATER OR JUST SCALE</srai></template></category>
+
+
+<category><pattern>^ REDUCE HARD WATER</pattern><template><srai>WILL THE Pearl Plus REDUCE HARD WATER OR JUST SCALE</srai></template></category>
+<category><pattern>CHANGE WATER HARDNESS</pattern><template><srai>WILL THE Pearl Plus REDUCE HARD WATER OR JUST SCALE</srai></template></category>
+
+<category>
+	<pattern>WILL THE ^ REDUCE HARD WATER</pattern>
+	<template>HydroFLOW doesn’t reduce hard water, or “soften” water. The HydroFLOW unit applies an electric field to help the ions form crystals in the water rather than on the walls of your pipes or equipment. This allows the good minerals, calcium and magnesium, to remain in your water and not form scale in your plumbing system.</template>
+</category>
+
+<category>
+	<pattern>WHEN I INSTALL AN ^ WILL IT BREAK DOWN EXISTING BUILD UP ON THE ELECTRIC HOT WATER HEATER ELEMENTS AND ANODE ROD</pattern>
+	<template>Yes it will. The Pearl Plus not only will descale it also prevents from future scale from building up on your electric hot water heater elements and anode rod. It’s typically a slow process that happens over months not weeks. You may also see residue in your faucets and you will need to clean off/wipe off periodically. This will also be an indication that the HydroFLOW unit is working as is should be.  For more information please see link http://hydroflow-usa.com/scale.</template>
+</category>
+
+<category>
+	<pattern>CAN I INSTALL THIS UNIT ON A VERTICAL WATERLINE</pattern>
+	<template>It is okay to install the unit on a vertical water line. There is not difference between vertical and horizontal when you install the unit.</template>
+</category>
+
+<category><pattern>VERTICLE INSTALLATION</pattern><template><srai>CAN I INSTALL THIS UNIT ON A VERTICAL WATERLINE</srai></template></category>
+<category><pattern>VERTICLE INSTALL</pattern><template><srai>CAN I INSTALL THIS UNIT ON A VERTICAL WATERLINE</srai></template></category>
+
+
+<category>
+	<pattern>WILL THIS WORK ON A GARDEN HOSE USED AS THE INCOMING LINE TO MY RV</pattern>
+	<template>Yes, it will work on a garden hose used as the incoming line to your RV. When you install the unit make sure you install it 5-10 ft from the RV and because it will be outside make sure to protect/cover.  If you install it inside the RV put the system after the filter… (If the RV has a filter)</template>
+</category>
+
+<category>
+    <pattern>WHAT IS YOUR PHONE NUMBER</pattern>
+    <template>(425) 497-3900</template>
+</category>
+
+<category><pattern>WHAT NUMBER CAN i REACH YOU AT</pattern><template><srai>WHAT IS YOUR PHONE NUMBER</srai></template></category>
+<category><pattern>VOICE CALLS</pattern><template><srai>WHAT IS YOUR PHONE NUMBER</srai></template></category>
+<category><pattern>TALK VIA PHONE</pattern><template><srai>WHAT IS YOUR PHONE NUMBER</srai></template></category>
+<category><pattern>CAN i TALK TO A REAL PERSON</pattern><template><srai>WHAT IS YOUR PHONE NUMBER</srai></template></category>
+<category><pattern>DO YOU ACCEPT PHONE CALLS</pattern><template><srai>WHAT IS YOUR PHONE NUMBER</srai></template></category>
+<category><pattern>TELEPHONE NUMBER</pattern><template><srai>WHAT IS YOUR PHONE NUMBER</srai></template></category>
+<category><pattern>CAN I CALL YOU</pattern><template><srai>WHAT IS YOUR PHONE NUMBER</srai></template></category>
+<category><pattern>DO YOU HAVE A TELEPHONE</pattern><template><srai>WHAT IS YOUR PHONE NUMBER</srai></template></category>
+<category><pattern>HYDROFLOW PHONE</pattern><template><srai>WHAT IS YOUR PHONE NUMBER</srai></template></category>
+<category><pattern>PHONE NUMBER</pattern><template><srai>WHAT IS YOUR PHONE NUMBER</srai></template></category>
+<category><pattern>VOICE CALL</pattern><template><srai>WHAT IS YOUR PHONE NUMBER</srai></template></category>
+<category><pattern>TALK ON PHONE</pattern><template><srai>WHAT IS YOUR PHONE NUMBER</srai></template></category>
+<category><pattern>TELEPHONE</pattern><template><srai>WHAT IS YOUR PHONE NUMBER</srai></template></category>
+
+<category>
+    <pattern>Click node to edit pattern</pattern>
+    <template>Click node to edit template</template>
+</category>
+
+<category>
+	<pattern>WHAT IS A WATER CONDITIONER</pattern>
+	<template>Water conditioning is the process of removing or altering minerals, chemicals, and contaminants from a water source. Today, more than ever, there is a growing concern about our water supplies containing a multitude of contaminants such as chlorine, ammonia, chloramines, and many other harmful chemicals.</template>
+</category>
+
+<category>
+	<pattern>DOES HYDROFLOW WORK</pattern>
+	<template>Yes it works. Better than any chemical or competitor product at removing scale in my opinion Check out our case sudies on our website www.hydroflow-usa.com</template>
+</category>
+
+
+
+<category>
+	<pattern>WHO IS THE MANUFACTURER OF HYDROFLOW</pattern>
+	<template>Hydropath is the Manufacturer</template>
+</category>
+
+<category>
+	<pattern>WHAT ARE THE POSSIBLE USES FOR HYDROFLOW</pattern>
+	<template>Popular residential applications incdlude water heaters, pools, spas, appliances, swamp coolers and wells. Commercial and industrial applications include pools, water features and filtration systems. Additional applications and markets our technology benefits include irrigation systems, municipal potable water systems, aquaculture, reverse osmosis systems, golf courses and parks, wastewater treatment plants, shipboard water systems, mining and construction.</template>
+</category>
+
+<category><pattern>* APPLICATIONS  ^</pattern><template><srai>WHAT ARE THE POSSIBLE USES FOR HYDROFLOW</srai></template></category>
+
+
+<category><pattern>WHAT DOES HYDROFLOW ^</pattern><template><srai>WHAT ARE THE POSSIBLE USES FOR HYDROFLOW</srai></template></category>
+
+
+<category><pattern>WHAT APPLICATIONS ^</pattern><template><srai>WHAT ARE THE POSSIBLE USES FOR HYDROFLOW</srai></template></category>
+
+
+<category>
+	<pattern>WHAT SQUARE FOOT</pattern>
+	<template>For your home size, we would recommend that you purchase the Pearl Plus unit</template>
+</category>
+
+<category><pattern>1000</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+<category><pattern>1100</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+<category><pattern>1200</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+<category><pattern>1300</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+<category><pattern>1400</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+<category><pattern>1500</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+<category><pattern>1600</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+<category><pattern>1700</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+<category><pattern>1800</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+<category><pattern>1900</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+
+
+<category><pattern>0_00</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+
+
+<category><pattern>1300</pattern><template><srai>1100</srai></template></category>
+<category><pattern>1400</pattern><template><srai>1100</srai></template></category>
+<category><pattern>1500</pattern><template><srai>1100</srai></template></category>
+<category><pattern>1600</pattern><template><srai>1100</srai></template></category>
+<category><pattern>1700</pattern><template><srai>1100</srai></template></category>
+<category><pattern>1800</pattern><template><srai>1100</srai></template></category>
+<category><pattern>1900</pattern><template><srai>1100</srai></template></category>
+
+
+
+<category><pattern>^ 1*</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+<category><pattern>2000</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+
+<category><pattern>2100</pattern><template><srai>2000</srai></template></category>
+<category><pattern>2200</pattern><template><srai>2000</srai></template></category>
+<category><pattern>2300</pattern><template><srai>2000</srai></template></category>
+<category><pattern>2400</pattern><template><srai>2000</srai></template></category>
+<category><pattern>2500</pattern><template><srai>2000</srai></template></category>
+<category><pattern>2600</pattern><template><srai>2000</srai></template></category>
+<category><pattern>2700</pattern><template><srai>2000</srai></template></category>
+<category><pattern>2800</pattern><template><srai>2000</srai></template></category>
+<category><pattern>2900</pattern><template><srai>2000</srai></template></category>
+
+<category><pattern>3#</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+
+
+<category><pattern>^ 1* SQUARE FEET</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+
+
+<category><pattern>^ 2* sQUARE FEET</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+
+<category><pattern>MY HOME IS * SQUARE * </pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+<category><pattern>^ 2* SQUARE FOOT *</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+<category><pattern>1* SQUARE FOOT ^ </pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+<category><pattern>MY HOME IS * SQF</pattern><template><srai>WHAT SQUARE FOOT</srai></template></category>
+
+<category>
+	<pattern>DOES *</pattern>
+	<template>To answer if it does or not please refer to our website <link> <text>HydroFLOW</text> <url>https://www.hydroflow-usa.com</url> </link> for answers. Or contact support at 425-476-3900. If its after hours please email sales@hydroflow-usa.com </template>
+</category>
+
+<category>
+	<pattern>HOW ^ KNOW WHAT ^ TO BUY</pattern>
+	<template>Is this for a Residential or Industrial application?</template>
+</category>
+
+<category><pattern>WHAT ^ SHOULD I BUY</pattern><template><srai>HOW ^ KNOW WHAT ^ TO BUY</srai></template></category>
+<category><pattern>HELP CHOOSING ^</pattern><template><srai>HOW ^ KNOW WHAT ^ TO BUY</srai></template></category>
+<category><pattern>HOW DO i SELECT ^</pattern><template><srai>HOW ^ KNOW WHAT ^ TO BUY</srai></template></category>
+
+<category><pattern>RESIDENTIAL</pattern>
+<template>Waht is the square footage of your home?</template></category>
+<category>
+	<pattern>SCALE</pattern>
+	<template>Hydropath technology powers the HydroFLOW device, which is a highly effective, non-intrusive electronic descaler that treats fluids by inducing a robust yet harmless signal of 150kHz throughout pipes and plumbing systems made of any material, including metal and PVC.     These electric waves cause mineral ions to form suspended clusters that turn into stable crystals when temperature or pressure changes occur. The suspended crystals will prevent scale from building up in pipes and on heating elements, thus increasing heat transfer efficiency, lowering maintenance costs and reducing chemical usage. Standard applications include plumbing systems, heat exchangers, water heaters, boilers, cooling towers, belt filter presses, wells and pumps in residential, commercial, industrial and agricultural sectors.</template>
+</category>
+
+<category><pattern>DO YOU FIX SCALE</pattern><template><srai>SCALE</srai></template></category>
+<category><pattern>^ SCALE ^</pattern><template><srai>SCALE</srai></template></category>
+
+
+<category>
+	<pattern>WHAT IS HYDROPATH</pattern>
+	<template>Hydropath is the induced signal that has the ability to continuously condition the liquid solution throughout an entire system. This process treats fluids by inducing a robust yet harmless signal of 150kHz throughout plumbing systems made of any material. The pipe, and/or the fluid inside of it, acts as a conduit which allows the signal to propagate. The induction of the signal prevents scale and biofilm from accumulating inside plumbing systems and gradually removes existing deposits. </template>
+</category>
+
+<category>
+	<pattern>800</pattern>
+	<template>For a home that size I would recommend you purchase an <link> <text>Pearl Plus</text> <url>https://www.hydroflow-usa.com/Shop</url></link> </template>
+</category>
+
+<category><pattern>900</pattern><template><srai>800</srai></template></category>
+<category><pattern>700</pattern><template><srai>800</srai></template></category>
+<category><pattern>600</pattern><template><srai>800</srai></template></category>
+<category><pattern>500</pattern><template><srai>800</srai></template></category>
+<category><pattern>400</pattern><template><srai>800</srai></template></category>
+<category><pattern>300</pattern><template><srai>800</srai></template></category>
+<category><pattern>200</pattern><template><srai>800</srai></template></category>
+<category><pattern>100</pattern><template><srai>800</srai></template></category>
+
+
+<category>
+	<pattern>3100</pattern>
+	<template>For that size home I would recommend you purchase an <link> <text>Pearl and a Pearl Plus</text> <url>https://www.hydroflow-usa.com/Shop</url></link></template>
+</category>
+
+<category><pattern>3200</pattern><template><srai>3100</srai></template></category>
+<category><pattern>3300</pattern><template><srai>3100</srai></template></category>
+<category><pattern>3400</pattern><template><srai>3100</srai></template></category>
+<category><pattern>3500</pattern><template><srai>3100</srai></template></category>
+<category><pattern>3600</pattern><template><srai>3100</srai></template></category>
+<category><pattern>3700</pattern><template><srai>3100</srai></template></category>
+<category><pattern>3800</pattern><template><srai>3100</srai></template></category>
+<category><pattern>3900</pattern><template><srai>3100</srai></template></category>
+<category><pattern>400</pattern><template><srai>3100</srai></template></category>
+<category><pattern>4100</pattern><template><srai>3100</srai></template></category>
+<category><pattern>4200</pattern><template><srai>3100</srai></template></category>
+<category><pattern>4300</pattern><template><srai>3100</srai></template></category>
+<category><pattern>4400</pattern><template><srai>3100</srai></template></category>
+<category><pattern>4500</pattern><template><srai>3100</srai></template></category>
+<category><pattern>5600</pattern><template><srai>3100</srai></template></category>
+<category><pattern>4700</pattern><template><srai>3100</srai></template></category>
+<category><pattern>4800</pattern><template><srai>3100</srai></template></category>
+<category><pattern>4900</pattern><template><srai>3100</srai></template></category>
+<category><pattern>5000</pattern><template><srai>3100</srai></template></category>
+
+
+<category>
+	<pattern>CAN YOU FIX LEAD IN MY WATER</pattern>
+	<template>No HydroFLOW does not fix lead</template>
+</category>
+
+<category>
+	<pattern>DO YOU HAVE A PHONE NUMBER</pattern>
+	<template>yes, it is 1-425-497-3900</template>
+</category>
+
+</aiml>

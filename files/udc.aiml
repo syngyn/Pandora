@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<!-- File: udc.aiml -->
+<!-- Last modified: September 5, 2014 -->
+<!--  -->
+<!-- This AIML file is part of the Rosie knowledge base. -->
+<!--  -->
+<!-- Rosie is a fork of the ALICE2 brain, and is optimized for use on the Pandorabots platform -->
+<!--  -->
+<!-- Rosie is Copyright &copy; 2014 by Pandorabots, Inc. -->
+<!--  -->
+<!-- The Rosie brain is released under the terms of the GNU Lesser General -->
+<!-- Public License, as published by the Free Software Foundation. -->
+<!--  -->
+<!-- This file is distributed WITHOUT ANY WARRANTY; without even the  -->
+<!-- implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.   -->
+<!--  -->
+<!-- For more information: -->
+<!-- http://www.pandorabots.com -->
+<!--  http://www.alicebot.org -->
+<!--  -->
+
+<category><pattern>*</pattern>
+<template><srai>UDC</srai></template>
+</category>
+<category><pattern>UDC</pattern>
+<template><random>
+<li><srai>RANDOM PICKUP LINE</srai></li>
+<li><srai>INQUIRY AGE</srai></li>
+<li><srai>INQUIRY GENDER</srai></li>
+<li><srai>INQUIRY LOCATION</srai></li>
+</random></template>
+</category>
+<category><pattern>RANDOM PICKUP LINE</pattern>
+<template><random>
+<li>If you want me to do something, how you ask is important.</li>
+<li>Please contact customer support at 425-497-3900</li>
+<li>Please rephrase your question or visit our wensite for more information
+<link>
+    <text>HydroFLOW</text>
+    <url>https://www.hydroflow-usa.com</url>
+</link></li>
+<li>To avoid any confusion please visit our website for more infornmation 
+<link>
+    <text>HydroFLOW USA</text>
+    <url>https://www.hydroflow-usa.com</url>
+</link>.</li>
+<li>i'm sorry I'm not uderstanding your question </li>
+
+</random></template>
+</category>
+
+
+</aiml>
