@@ -601,7 +601,7 @@ For larger pipe sizes please email Sales@hydroflow-usa.com</template>
 <category><pattern>HOW DO i SELECT ^</pattern><template><srai>HOW ^ KNOW WHAT ^ TO BUY</srai></template></category>
 
 <category><pattern>RESIDENTIAL</pattern>
-<template>Waht is the square footage of your home?</template></category>
+<template>What is the square footage of your home?</template></category>
 <category>
 	<pattern>SCALE</pattern>
 	<template>Hydropath technology powers the HydroFLOW device, which is a highly effective, non-intrusive electronic descaler that treats fluids by inducing a robust yet harmless signal of 150kHz throughout pipes and plumbing systems made of any material, including metal and PVC.     These electric waves cause mineral ions to form suspended clusters that turn into stable crystals when temperature or pressure changes occur. The suspended crystals will prevent scale from building up in pipes and on heating elements, thus increasing heat transfer efficiency, lowering maintenance costs and reducing chemical usage. Standard applications include plumbing systems, heat exchangers, water heaters, boilers, cooling towers, belt filter presses, wells and pumps in residential, commercial, industrial and agricultural sectors.</template>
@@ -618,7 +618,7 @@ For larger pipe sizes please email Sales@hydroflow-usa.com</template>
 
 <category>
 	<pattern>800</pattern>
-	<template>For a home that size I would recommend you purchase an <link> <text>Pearl Plus</text> <url>https://www.hydroflow-usa.com/Shop</url></link> </template>
+	<template>For a home that size I would recommend you purchase an <link> <text>Pearl</text> <url>https://www.hydroflow-usa.com/Shop</url></link> </template>
 </category>
 
 <category><pattern>900</pattern><template><srai>800</srai></template></category>
