@@ -266,9 +266,6 @@ For larger pipe sizes please email Sales@hydroflow-usa.com</template>
 	<template>No we don't remove anything out of the water</template>
 </category>
 
-
-
-
 <category><pattern>FIX LEAD IN THE WATER</pattern><template><srai>DOES YOUR PRODUCT DEAL WITH LEAD IN THE WATER</srai></template></category>
 <category><pattern>LEAD IN WATER</pattern><template><srai>DOES YOUR PRODUCT DEAL WITH LEAD IN THE WATER</srai></template></category>
 <category><pattern>^ LEAD PROBLEM ^</pattern><template><srai>DOES YOUR PRODUCT DEAL WITH LEAD IN THE WATER</srai></template></category>
@@ -276,15 +273,7 @@ For larger pipe sizes please email Sales@hydroflow-usa.com</template>
 <category><pattern>LEAD ISSUE</pattern><template><srai>DOES YOUR PRODUCT DEAL WITH LEAD IN THE WATER</srai></template></category>
 <category><pattern>DEAL WITH LEAD</pattern><template><srai>DOES YOUR PRODUCT DEAL WITH LEAD IN THE WATER</srai></template></category>
 
-<category>
-	<pattern>ARE YOU A WATER SOFTENER</pattern>
-	<template>No we are a chemical free alternative to a water softenener.
-To learn more about this technology 
-<link>
-    <text>Click Here</text>
-    <url>https://www.hydroflow-usa.com/Technology</url>
-</link></template>
-</category>
+
 
 <category><pattern>DO YOU MAKE WATER SOFT</pattern><template><srai>ARE YOU A WATER SOFTENER</srai></template></category>
 <category><pattern>WATER SOFTENER</pattern><template><srai>ARE YOU A WATER SOFTENER</srai></template></category>
@@ -385,14 +374,8 @@ To learn more about this technology
 <category><pattern>EXISTING SCALE GOES</pattern><template><srai>WHAT HAPPENS TO THE REMOVED SCALE</srai></template></category>
 
 
-<category>
-	<pattern>DO YOU SELL WATER FILTERS</pattern>
-	<template>No,we sell HydroFLOW water Conditioners
-<link>
-    <text>What we sell</text>
-    <url>https://www.hydroflow-usa.com/Shop>
-</link></template>
-</category>
+<category><pattern>DO YOU SELL WATER FILTERS</pattern><template><srai>No,we sell HydroFLOW water Conditioners</srai></template></category>
+
 
 <category><pattern>DO YOU SELL PUMPS</pattern><template><srai>DO YOU SELL WATER FILTERS</srai></template></category>
 <category><pattern>DO YOU SELL FILTER</pattern><template><srai>DO YOU SELL WATER FILTERS</srai></template></category>
